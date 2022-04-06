@@ -1,3 +1,5 @@
+![Alt Text](/transit_tracker.gif)
+
 ## Transit Tracker
 
 ### Summary
